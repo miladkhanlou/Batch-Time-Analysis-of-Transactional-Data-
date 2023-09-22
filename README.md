@@ -1,4 +1,8 @@
-# Batch-Time-Analysis-of-Transactional-Data-
+# Batch-Time-Analysis-of-Transactional-Data
+### Introduction:
+This project focuses on leveraging e-commerce sales data to extract valuable insights without revealing the specific organization involved. The objective is to provide essential analytics to various teams within the organization, including marketing, product, sales, and procurement, to support data-driven decision-making and improve business performance.
+
+
 ### S3 Bucket and Data Upload:
 - Created a unique S3 bucket to securely store and manage datasets.
 - Ensured data integrity by uploading CSV files in UTF-8 format to the S3 bucket.
